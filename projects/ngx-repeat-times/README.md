@@ -19,7 +19,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->s
+<!-- PROJECT LOGO -->
 <div align="center">
 
   <h3 align="center">Ngx Repeat Times</h3>
