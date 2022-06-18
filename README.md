@@ -143,7 +143,7 @@ Project Link: [https://github.com/nivrith/ngx-repeat-times](https://github.com/y
 [issues-shield]: https://img.shields.io/github/issues/nivrith/ngx-repeat-times.svg?style=for-the-badge
 [issues-url]: https://github.com/nivrith/ngx-repeat-times/issues
 [license-shield]: https://img.shields.io/github/license/nivrith/ngx-repeat-times.svg?style=for-the-badge
-[license-url]: https://github.com/nivrith/ngx-repeat-times/blob/master/LICENSE.txt
+[license-url]: https://github.com/nivrith/ngx-repeat-times/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nivrith
 [product-screenshot]: ngx-repeat-times-readme-image.svg
