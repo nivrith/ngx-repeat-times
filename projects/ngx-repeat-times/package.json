@@ -1,9 +1,26 @@
 {
   "name": "ngx-repeat-times",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^14.0.0",
     "@angular/core": "^14.0.0"
+  },
+  "license": "MIT",
+  "description": "A simple angular directive to repeat templates based on a number rather than an iterable",
+  "keywords": [
+    "iterate templates based on numbers",
+    "angular ngFor number",
+    "ngFor number",
+    "ngFor count",
+    "angular"
+  ],
+  "author": {
+    "email": "nivrithgomatam@gmail.com",
+    "name": "Nivrith"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nivrith/ngx-repeat-times.git"
   },
   "dependencies": {
     "tslib": "^2.3.0"
